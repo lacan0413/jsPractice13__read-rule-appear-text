@@ -1,0 +1,8 @@
+#block {
+    overflow: auto;
+    padding: 1rem;
+    width: 50px;
+    height: 50px;
+    border: 2px solid goldenrod;
+    font-size: 0.5rem;
+}
